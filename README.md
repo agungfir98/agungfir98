@@ -24,6 +24,7 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
 ![VScode](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
 ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 <br/>
 <br/>
