@@ -35,7 +35,7 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/agung-firmansyah-76a8b819a//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/agung_firm)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungfir98&show_icons=true)  
 
