@@ -25,5 +25,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&layout=compact)](https://github.com/agungfir98/github-readme-stats)
 
 [![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agungfir98)](https://github.com/agungfir98/github-readme-stats)
+
