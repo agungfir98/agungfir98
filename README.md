@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently a fresh graduate looking for a web developer job
 - 🌱 I’m currently learning TypeScript, Tailwind, Next.js
-
+<br/>
+<br/>
+<br/>
 
 **SKILL TECH**
 
@@ -22,10 +24,10 @@
 ![VScode](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
 ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
 
-<!-- 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&layout=compact" />
-</div> -->
+<br/>
+<br/>
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&layout=compact)](https://github.com/agungfir98/github-readme-stats)
 
 [![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=agungfir98)](https://github.com/agungfir98/github-readme-stats)
