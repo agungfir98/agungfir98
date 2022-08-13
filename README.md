@@ -6,7 +6,7 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 -->
 
 - 🔭 I’m currently a fresh graduate looking for a web developer job
-- 🌱 I’m currently learning TypeScript, Tailwind, Next.js
+- 🌱 I’m currently learning TypeScript, GraphQL, MongoDB, Writting
 <br/>
 <br/>
 
@@ -24,13 +24,12 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 ![VScode](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code)
 ![GIT](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 
 <br/>
 <br/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/agungfir98)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/agung-firmansyah-76a8b819a//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/agung_firm)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98)](https://github.com/anuraghazra/github-readme-stats)
 
