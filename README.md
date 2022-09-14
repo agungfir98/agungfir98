@@ -6,7 +6,7 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 -->
 
 - 🔭 I’m currently a fresh graduate looking for a web developer job
-- 🌱 I’m currently learning TypeScript, GraphQL, MongoDB, Writting
+- 🌱 I’m currently learning flutter, Writting
 <br/>
 <br/>
 
