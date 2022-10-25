@@ -31,7 +31,7 @@ Electrical Engineer fresh graduate passionate in web developing fields with know
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=agungfir98&show_icons=true)  
 
