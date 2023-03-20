@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Agung
-Electrical Engineer fresh graduate passionate in web developing fields with knowledge using javascript framework and library such as Node.js, React.js, MongoDB, etc. Having a good knowledge about computer networking and how the internet work enables me to learn new tech relatively faster.
+Passionate front-end developer with knowledge using javascript framework and library such as Node.js, React.js, MongoDB, etc. Having a good knowledge about computer networking and how the internet work enables me to learn new tech relatively faster.
 
 <!--
 **agungfir98/agungfir98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently a fresh graduate looking for a web developer job
+- 🔭 I’m currently looking for front-end working opportunity
 - 🌱 I’m currently learning flutter, Writting
 <br/>
 <br/>
