@@ -34,4 +34,19 @@ Passionate front-end developer with knowledge using javascript framework and lib
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 01 March 2024 - To: 10 March 2024
+
+Total Time: 26 hrs
+
+TypeScript   22 hrs 57 mins  ██████████████████████---   88.09 %
+Bash         1 hr 22 mins    █ -----------------------   05.27 %
+Prisma       45 mins         ▒------------------------   02.92 %
+CSS          8 mins          >------------------------   00.51 %
+JavaScript   7 mins          >------------------------   00.51 %
+TSConfig     3 mins          -------------------------   00.23 %
+Other        3 mins          -------------------------   00.21 %
+```
+
 <!--END_SECTION:waka-->
