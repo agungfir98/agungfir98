@@ -33,3 +33,5 @@ Passionate front-end developer with knowledge using javascript framework and lib
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agungfir98&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
