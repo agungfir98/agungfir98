@@ -36,18 +36,18 @@ Passionate front-end developer with knowledge using javascript framework and lib
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 March 2024 - To: 29 April 2024
+From: 31 March 2024 - To: 30 April 2024
 
-Total Time: 86 hrs 2 mins
+Total Time: 91 hrs 20 mins
 
-Dart         81 hrs 48 mins  ███████████████████████▒-   94.99 %
-Prisma       1 hr 29 mins    ░------------------------   01.73 %
-YAML         45 mins         >------------------------   00.87 %
-Groovy       39 mins         >------------------------   00.76 %
-Bash         31 mins         >------------------------   00.61 %
-TypeScript   29 mins         >------------------------   00.57 %
-XML          15 mins         -------------------------   00.29 %
-Other        4 mins          -------------------------   00.09 %
+Dart         86 hrs 46 mins  ███████████████████████▒-   94.91 %
+Prisma       1 hr 29 mins     ------------------------   01.63 %
+YAML         56 mins          ------------------------   01.04 %
+Groovy       47 mins         >------------------------   00.87 %
+Bash         31 mins         >------------------------   00.58 %
+TypeScript   29 mins         >------------------------   00.53 %
+XML          15 mins         -------------------------   00.27 %
+Other        4 mins          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
