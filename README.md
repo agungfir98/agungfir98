@@ -36,17 +36,17 @@ Passionate front-end developer with knowledge using javascript framework and lib
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 May 2024 - To: 23 June 2024
+From: 25 May 2024 - To: 24 June 2024
 
-Total Time: 22 hrs 35 mins
+Total Time: 18 hrs 49 mins
 
-TypeScript   19 hrs 31 mins  █████████████████████▒---   86.43 %
-HTML         1 hr 19 mins    █░-----------------------   05.85 %
-JavaScript   50 mins         █------------------------   03.74 %
-CSS          29 mins         ░------------------------   02.14 %
-Astro        15 mins          ------------------------   01.13 %
-JSON         9 mins          >------------------------   00.70 %
-Other        0 secs          -------------------------   00.01 %
+TypeScript   17 hrs 45 mins  ███████████████████████░-   94.33 %
+HTML         33 mins         ▒------------------------   02.99 %
+CSS          18 mins          ------------------------   01.64 %
+JavaScript   10 mins         >------------------------   00.94 %
+Bash         0 secs          -------------------------   00.07 %
+JSON         0 secs          -------------------------   00.03 %
+Other        0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
