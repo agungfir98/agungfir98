@@ -15,19 +15,19 @@ Passionate front-end developer with knowledge using javascript framework and lib
 <!--START_SECTION:waka-->
 
 ```rust
-From: 26 July 2024 - To: 25 August 2024
+From: 27 July 2024 - To: 26 August 2024
 
-Total Time: 85 hrs 3 mins
+Total Time: 87 hrs 20 mins
 
-Go          62 hrs 55 mins  ██████████████████░------   73.91 %
-Lua         7 hrs 55 mins   ██ ----------------------   09.31 %
-tmux        6 hrs 13 mins   █▓-----------------------   07.31 %
-Text        2 hrs 38 mins   ▓------------------------   03.11 %
-Bash        2 hrs 38 mins   ▓------------------------   03.11 %
-TOML        1 hr 9 mins      ------------------------   01.37 %
-YAML        36 mins         >------------------------   00.71 %
-JSON        35 mins         >------------------------   00.70 %
-CSV         7 mins          -------------------------   00.14 %
+Go          65 hrs 1 min    ██████████████████▒------   74.39 %
+Lua         7 hrs 55 mins   ██ ----------------------   09.06 %
+tmux        6 hrs 13 mins   █▓-----------------------   07.11 %
+Text        2 hrs 46 mins   ▓------------------------   03.17 %
+Bash        2 hrs 38 mins   ▓------------------------   03.03 %
+TOML        1 hr 9 mins      ------------------------   01.33 %
+YAML        36 mins         >------------------------   00.69 %
+JSON        35 mins         >------------------------   00.69 %
+CSV         7 mins          -------------------------   00.13 %
 zsh         5 mins          -------------------------   00.11 %
 ```
 
