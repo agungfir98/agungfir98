@@ -11,11 +11,11 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 September 2024 - To: 01 October 2024
+From: 02 September 2024 - To: 02 October 2024
 
 Total Time: 45 hrs 38 mins
 
-Go           27 hrs 36 mins  ███████████████>---------   60.41 %
+Go           27 hrs 35 mins  ███████████████>---------   60.40 %
 TypeScript   10 hrs 44 mins  █████▓-------------------   23.50 %
 Bash         2 hrs 2 mins    █>-----------------------   04.47 %
 Docker       1 hr 18 mins    ▒------------------------   02.88 %
