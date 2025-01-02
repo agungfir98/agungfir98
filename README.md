@@ -11,18 +11,18 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 November 2024 - To: 30 December 2024
+From: 02 December 2024 - To: 01 January 2025
 
-Total Time: 65 hrs 46 mins
+Total Time: 72 hrs 14 mins
 
-TypeScript    28 hrs 22 mins  ██████████▓--------------   43.00 %
-Go            19 hrs 3 mins   ███████>-----------------   28.88 %
-Astro         7 hrs 44 mins   ███----------------------   11.73 %
-Lua           4 hrs 27 mins   █▒-----------------------   06.75 %
-Markdown      2 hrs 2 mins    ▓------------------------   03.09 %
-Bash          1 hr 27 mins    ░------------------------   02.20 %
-JavaScript    1 hr 2 mins      ------------------------   01.58 %
-Other         13 mins         >------------------------   00.34 %
+TypeScript    38 hrs 6 mins   █████████████>-----------   52.59 %
+Go            14 hrs 54 mins  █████>-------------------   20.58 %
+Astro         7 hrs 44 mins   ██▒----------------------   10.68 %
+Lua           4 hrs 25 mins   █░-----------------------   06.10 %
+Markdown      2 hrs 4 mins    ▒------------------------   02.86 %
+Bash          1 hr 27 mins    ░------------------------   02.01 %
+JavaScript    1 hr 19 mins    ░------------------------   01.83 %
+CSS           17 mins         >------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
