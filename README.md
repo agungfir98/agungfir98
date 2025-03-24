@@ -11,13 +11,13 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 February 2025 - To: 21 March 2025
+From: 20 February 2025 - To: 22 March 2025
 
-Total Time: 68 hrs 38 mins
+Total Time: 68 hrs 40 mins
 
-Go            36 hrs 15 mins  █████████████>-----------   52.83 %
-Dart          22 hrs 8 mins   ████████-----------------   32.26 %
-TypeScript    6 hrs 47 mins   ██░----------------------   09.88 %
+Go            36 hrs 15 mins  █████████████>-----------   52.78 %
+Dart          19 hrs 39 mins  ███████>-----------------   28.60 %
+TypeScript    9 hrs 17 mins   ███ ---------------------   13.51 %
 Astro         1 hr 9 mins     ░------------------------   01.69 %
 HTML          49 mins          ------------------------   01.19 %
 Makefile      25 mins         >------------------------   00.62 %
