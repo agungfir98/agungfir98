@@ -11,18 +11,18 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 June 2025 - To: 09 July 2025
+From: 10 June 2025 - To: 10 July 2025
 
-Total Time: 61 hrs 42 mins
+Total Time: 59 hrs 25 mins
 
-TypeScript     14 hrs 43 mins  ██████-------------------   23.83 %
-Go             12 hrs 32 mins  █████--------------------   20.29 %
-hyprlang       9 hrs 35 mins   ███▓---------------------   15.52 %
-Markdown       3 hrs 24 mins   █ -----------------------   05.52 %
-Bash           2 hrs 55 mins   █>-----------------------   04.74 %
-CSS            2 hrs 52 mins   █>-----------------------   04.64 %
-conf           1 hr 46 mins    ▒------------------------   02.88 %
-tmux           1 hr 17 mins    ░------------------------   02.10 %
+Go             12 hrs 32 mins  █████ -------------------   21.08 %
+TypeScript     12 hrs 26 mins  █████>-------------------   20.90 %
+hyprlang       9 hrs 35 mins   ████---------------------   16.11 %
+Markdown       3 hrs 24 mins   █░-----------------------   05.73 %
+Bash           2 hrs 55 mins   █>-----------------------   04.92 %
+CSS            2 hrs 52 mins   █>-----------------------   04.82 %
+conf           1 hr 46 mins    ▒------------------------   02.99 %
+tmux           1 hr 17 mins    ░------------------------   02.18 %
 ```
 
 <!--END_SECTION:waka-->
