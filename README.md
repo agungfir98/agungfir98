@@ -11,19 +11,20 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 July 2025 - To: 31 July 2025
+From: 02 July 2025 - To: 01 August 2025
 
-Total Time: 69 hrs 14 mins
+Total Time: 70 hrs 29 mins
 
-Go           59 hrs 36 mins  █████████████████████░---   86.01 %
-Markdown     3 hrs 22 mins   █>-----------------------   04.88 %
-TypeScript   50 mins          ------------------------   01.21 %
-conf         44 mins          ------------------------   01.08 %
-hyprlang     40 mins         >------------------------   00.98 %
-Docker       37 mins         >------------------------   00.90 %
-Bash         36 mins         >------------------------   00.88 %
-Lua          35 mins         >------------------------   00.86 %
-Makefile     20 mins         >------------------------   00.50 %
+Go             59 hrs 39 mins  █████████████████████>---   84.58 %
+Markdown       3 hrs 21 mins   █>-----------------------   04.77 %
+hyprlang       57 mins          ------------------------   01.35 %
+TypeScript     50 mins          ------------------------   01.19 %
+Desktop file   47 mins          ------------------------   01.13 %
+conf           44 mins          ------------------------   01.06 %
+Docker         37 mins         >------------------------   00.88 %
+Bash           36 mins         >------------------------   00.86 %
+Lua            35 mins         >------------------------   00.85 %
+Makefile       20 mins         >------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->
