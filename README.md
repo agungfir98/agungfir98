@@ -27,3 +27,5 @@ Lua               11 mins         >------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
+
+[![An image of @agungfir98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agungfir98)](https://holopin.io/@agungfir98)
