@@ -5,7 +5,6 @@ Just an average dude trying to make his coding workflow awesome and fast.
 **agungfir98/agungfir98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Currently looking for a software engineering opportunity
 <br/>
 <br/>
 <!--START_SECTION:waka-->
@@ -27,5 +26,3 @@ rasi           46 mins         >------------------------   00.65 %
 ```
 
 <!--END_SECTION:waka-->
-
-[![An image of @agungfir98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/agungfir98)](https://holopin.io/@agungfir98)
