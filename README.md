@@ -10,16 +10,16 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 07 October 2025 - To: 06 November 2025
+From: 08 October 2025 - To: 07 November 2025
 
 Total Time: 106 hrs 38 mins
 
-TypeScript     95 hrs 55 mins  ██████████████████████ --   89.42 %
+TypeScript     94 hrs 16 mins  ██████████████████████---   88.06 %
+Go             3 hrs 45 mins   ▓------------------------   03.51 %
 JavaScript     2 hrs 2 mins    ░------------------------   01.91 %
-Bash           2 hrs           ░------------------------   01.88 %
-Go             48 mins         >------------------------   00.76 %
-Svelte         41 mins         >------------------------   00.64 %
-Other          37 mins         >------------------------   00.58 %
+Bash           1 hr 48 mins    ░------------------------   01.69 %
+Lua            29 mins         >------------------------   00.46 %
+Other          25 mins         >------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
