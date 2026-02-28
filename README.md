@@ -2,7 +2,7 @@
 Just an average dude trying to make his coding workflow awesome and fast.
 
 <!--
-**agungfir98/agungfir98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gnoega/gnoega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <br/>
