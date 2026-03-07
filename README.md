@@ -10,20 +10,20 @@ Just an average dude trying to make his coding workflow awesome and fast.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 February 2026 - To: 04 March 2026
+From: 03 February 2026 - To: 05 March 2026
 
-Total Time: 43 hrs 45 mins
+Total Time: 46 hrs 46 mins
 
-Rust       22 hrs 36 mins        ████████████▓------------   51.58 %
-Go         16 hrs 39 mins        █████████░---------------   38.02 %
-tmux       1 hr 23 mins          ▓------------------------   03.18 %
-Lua        1 hr 9 mins           ▒------------------------   02.66 %
-C          1 hr 7 mins           ▒------------------------   02.57 %
-Markdown   14 mins               >------------------------   00.54 %
-Astro      13 mins               >------------------------   00.51 %
-Bash       9 mins                >------------------------   00.35 %
-sh         6 mins                -------------------------   00.25 %
-Other      4 mins                -------------------------   00.16 %
+Rust       27 hrs 22 mins        ██████████████▒----------   58.45 %
+Go         14 hrs 56 mins        ████████-----------------   31.88 %
+tmux       1 hr 23 mins          ▒------------------------   02.97 %
+Lua        1 hr 9 mins           ▒------------------------   02.48 %
+C          1 hr 7 mins           ▒------------------------   02.41 %
+Markdown   14 mins               >------------------------   00.50 %
+Astro      13 mins               >------------------------   00.48 %
+Bash       7 mins                -------------------------   00.28 %
+sh         6 mins                -------------------------   00.24 %
+Other      4 mins                -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
